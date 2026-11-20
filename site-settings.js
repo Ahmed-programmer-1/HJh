@@ -9,8 +9,8 @@ window.SITE_SETTINGS = {
   "telegramUrl": "https://t.me/+_UvwpoODEkkwZTg0",
   "dlNudge": { "ids": [] },
   "adwall": false,
-  "supabaseUrl": "",
-  "supabaseAnonKey": "",
+  "supabaseUrl": "https://cckwjxzgahttqzievkyu.supabase.co",
+  "supabaseAnonKey": "sb_publishable_azLIWptzcRzlV8YukAFWsQ_94dA2QcM",
   "customCode": "",
   "maintenanceMode": false,
   "maintenanceMessage": "الموقع تحت الصيانة حاليًا، هنرجع قريبًا 🛠️"
